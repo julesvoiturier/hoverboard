@@ -32,7 +32,6 @@ for(let i = 0; i < 6000; i++){
 
 
 let colors = ["rgb(255, 206, 57)", "rgb(255, 229, 81)", "rgb(255, 217, 0)", "rgb(255, 191, 0)" ,"rgb(255, 102, 0)"]
-
 let color1
 let color2
 let color3
